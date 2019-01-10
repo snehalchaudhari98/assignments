@@ -1,0 +1,5 @@
+--  START   200 --
+--  MOVER   AREG    BREG
+--  MOVER   AREG    =5
+LOOP    MOVER   AREG    CREG
+--  END --  --
